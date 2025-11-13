@@ -1,18 +1,18 @@
 # Patriot-Access 🧑‍💻 
-Patriot Access is an interactive, text-based student portal simulation for George Mason University.
+Patriot Access is an interactive, text based student portal simulation for George Mason University.
 It allows newly enrolled students to sign up, log in, manage accounts, deposit "Mason Money", and register for classes, and it happens all from the terminal.
 
-The program uses file storage to persist user data between sessions and features built-in input validation for secure and realistic interaction.
+The program uses file storage to persist user data between sessions and features built in input validation for secure and realistic interaction.
 
 ---
 
 ## **Features**
 - **User Signup & Login**  
-  - Automatically generates a **unique 8-digit Student ID**.  
+  - Automatically generates a **unique 8 digit Student ID**.  
   - Stores account info (name, contact, balance, classes) in a `students.txt` file.
 
 - **Mason Money System**  
-  - Add funds using simulated credit-card input.  
+  - Add funds using simulated credit card input.  
   - Validates **numeric, length, and security code** formats.  
   - Updates balance in storage.  
 
